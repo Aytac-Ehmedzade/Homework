@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid #6f6b6b;
+    border-collapse: collapse;
+  }
+
+th, td {
+    border-color: #6f6b6b;
+    
+
+  }
+td{
+
+    background-color: brown;
+    padding: 20px;
+}
+th{
+    background-color: #6f6b6b;
+    padding: 30px;
+}
