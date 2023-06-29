@@ -14,5 +14,24 @@ body{
     background-image: url(WhatsApp\ Image\ 2023-06-22\ at\ 14.19.57.jpeg);
 }
 .robot{
-    padding: ;
+    padding-left: 690px;
+   font-size: 32px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line{
+    width: 15px;
+    height: 110px;
+    background-color: aquamarine;
+    margin-left: 700px;
+    margin-top: 100px;
+
+}
+h1{
+margin: 0px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding-left: 690px;
 }
