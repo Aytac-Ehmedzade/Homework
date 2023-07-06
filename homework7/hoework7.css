@@ -1,28 +1,28 @@
 .picture{
-    width:  120px;
-    height: 90px;
+    width:  600px;
+    height: 450px;
 }
 .robopic{
     position: absolute;
-    left: 170px;
-    top: 20px;
-    bottom: 20px;
+    left: 850px;
+    top: 100px;
+    bottom: 100px;
 }
 .container{
     position: absolute;
-    top: 30px;
-    left: 15px;
+    top: 150px;
+    left: 45px;
 
 }
 .paragraph{
-    font-size: 5px;
+    font-size: 25px;
     font-family: 'Roboto Flex', sans-serif;
 }
 .human{
     font-family: 'Roboto Flex', sans-serif;
-    font-size: 13px;
+    font-size: 65px;
 }
 .techno{
     font-family: 'Roboto Flex', sans-serif;
-    font-size: 4px;
+    font-size: 20px;
 }
