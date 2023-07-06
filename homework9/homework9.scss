@@ -1,6 +1,16 @@
+footer{
+    background-color: #333333;
+    font-family: sans-serif;
+    height: 400px;
+}
 .footertext{
     display: flex;
-    color: bisque;
+    color: white;
     justify-content: space-around;
     padding: 30px;
+    font-size: 1.25rem;
+    h3{
+        color: #AEA16A;
+    }
+    padding: 100px;
 }
