@@ -1,0 +1,45 @@
+.page1 {
+  color: white;
+  background-image: url(jpegs/WhatsApp\ Image\ 2023-06-22\ at\ 14.19.57.jpeg);
+  height: 810px;
+  background-repeat: no-repeat;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto Flex", sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  padding: 10px;
+  align-items: center;
+}
+
+input {
+  width: 240px;
+  height: 40px;
+}
+
+.robot {
+  padding-left: 690px;
+  font-size: 70px;
+  margin-top: 10px;
+}
+
+.line {
+  width: 18px;
+  height: 130px;
+  background-color: #b9dfdf;
+  margin-left: 690px;
+  margin-top: 80px;
+}
+
+h1 {
+  margin: 0px;
+}
+
+p {
+  font-size: 20px;
+  margin: 6px;
+  padding-left: 688px;
+}/*# sourceMappingURL=Homework cite.css.map */
