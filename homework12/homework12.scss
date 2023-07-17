@@ -1,0 +1,63 @@
+section{
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.containerob{
+    display: flex;
+    justify-content: center;
+    padding: 80px 0px ;
+    
+}
+
+.robotfull {
+    width: 550px;
+    height: 668px;
+    margin-bottom: 0;
+}
+ .robotfulltext{
+    width: 570px;
+    height: 692px;
+    position: relative;
+    
+ }
+ .textcontainer-ai{
+    position: absolute;
+    top: 90px;
+ }
+ h5{
+    font-size: 20px;
+    padding: 43px 43px 0px 43px;
+    margin: 0px;
+
+ }
+h2{
+    font-size: 48px;
+    padding: 43px;
+    margin: 0px;
+}
+ .robot-ai-text{
+    margin: 0px;
+    font-size: 20px;
+    padding: 0px 0px 0px 44px;
+    width: 518px;
+ }
+ .direction-robo-button{
+    position: absolute;
+    left: 50px;
+    bottom: 110px;
+ }
+ .robobutton{
+
+    color: black;
+    background-color:#b9dfdf ;
+    padding: 15px;
+    text-decoration: none;
+
+}
+.linespicture{
+    width: 204px;
+    height: 219px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
