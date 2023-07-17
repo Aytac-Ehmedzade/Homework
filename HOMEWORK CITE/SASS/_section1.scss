@@ -1,18 +1,10 @@
-// @use"section1"
-// @use"section2"
-// @use"section3"
-
-body{
-    display: flex;
-    flex-direction: column;
-}
 .page1{
     color: white;
        background-image: url(jpegs/WhatsApp\ Image\ 2023-06-22\ at\ 14.19.57.jpeg);
        height: 810px;
        background-repeat: no-repeat;
        font-family: 'Roboto Flex', sans-serif;
-}
+    }
 .container{
     display: flex;
     justify-content: space-around;
@@ -45,38 +37,4 @@ p{
     margin: 6px;
     padding-left: 688px;
     
-}
-
-
-.page2{
-    position: relative;
-    font-family: 'Roboto Flex', sans-serif;
-}
-.picture{
-    width:  550px;
-    height: 490px;
-}
-.robopic{
-    position: absolute;
-    left: 750px;
-    top: 100px;
-    bottom: 100px;
-}
-.container-Technology-News{
-    position: absolute;
-    top: 150px;
-    left: 250px;
-    width: 460px;
-    height: 290px;
-}
-.paragraph{
-    font-size: 20px;
-}
-.human{
-    
-    font-size: 24px;
-}
-.techno{
-   
-    font-size: 20px;
 }

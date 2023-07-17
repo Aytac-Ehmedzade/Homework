@@ -8,7 +8,6 @@ body {
   background-image: url(jpegs/WhatsApp\ Image\ 2023-06-22\ at\ 14.19.57.jpeg);
   height: 810px;
   background-repeat: no-repeat;
-  font-family: "Open Sans", sans-serif;
   font-family: "Roboto Flex", sans-serif;
 }
 
@@ -51,6 +50,7 @@ p {
 
 .page2 {
   position: relative;
+  font-family: "Roboto Flex", sans-serif;
 }
 
 .picture {
@@ -75,15 +75,12 @@ p {
 
 .paragraph {
   font-size: 20px;
-  font-family: "Roboto Flex", sans-serif;
 }
 
 .human {
-  font-family: "Roboto Flex", sans-serif;
   font-size: 24px;
 }
 
 .techno {
-  font-family: "Roboto Flex", sans-serif;
   font-size: 20px;
 }/*# sourceMappingURL=Homework cite.css.map */

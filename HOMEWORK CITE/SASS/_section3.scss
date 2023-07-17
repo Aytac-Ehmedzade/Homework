@@ -1,11 +1,15 @@
+.page3{
+    position: relative;
+    font-family: 'Roboto Flex', sans-serif;
+}
 .background-img{
     display: flex;
     background-color: #b9dfdf;
     height: 490px;
-    width: 1520px;
+    width: 1270px;
 }
 .black{
-    width: 760px;
+    width: 635px;
     height: 490px;
 }
 .white{
@@ -15,8 +19,8 @@
 .imgs{
     display: flex;
     position: absolute;
-    left: 198px;
-    bottom: 290px;
+    left: 73px;
+    bottom: 240px;
 }
 .jpeg{
     width: 190px;
@@ -26,13 +30,13 @@
    font-size: 30px;
     color: white;
     position: absolute;
-    bottom: 540px;
-    left: 198px;    
+    bottom: 505px;
+    left: 73px;    
 }
 .information{
     position: absolute;
-    bottom: 495px;
-    left: 198px;
+    bottom: 450px;
+    left: 73px;
     color: white;
 }
 .futureworkabout{
