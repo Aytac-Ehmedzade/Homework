@@ -63,4 +63,19 @@ h2 {
   position: absolute;
   top: 0px;
   right: 0px;
+}
+
+.bluefooter {
+  background-color: #23354d;
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+.blackfooter {
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
 }/*# sourceMappingURL=homework12.css.map */
