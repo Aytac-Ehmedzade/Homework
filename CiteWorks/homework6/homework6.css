@@ -1,3 +1,9 @@
+.page3{
+    position: relative;
+}
+.container3{
+  margin-top: 100px ;  
+}
 .background-img{
     display: flex;
     background-color: #b9dfdf;
@@ -15,8 +21,8 @@
 .imgs{
     display: flex;
     position: absolute;
-    left: 198px;
-    bottom: 290px;
+    left: 190px;
+    bottom: 80px;
 }
 .jpeg{
     width: 190px;
@@ -26,12 +32,12 @@
    font-size: 30px;
     color: white;
     position: absolute;
-    bottom: 540px;
+    bottom: 330px;
     left: 198px;    
 }
 .information{
     position: absolute;
-    bottom: 495px;
+    bottom: 285px;
     left: 198px;
     color: white;
 }

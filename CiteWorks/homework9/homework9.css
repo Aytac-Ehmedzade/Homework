@@ -1,17 +1,28 @@
 footer {
   background-color: #333333;
   font-family: sans-serif;
-  height: 400px;
+  height: 540px;
+  margin-top: 200px;
 }
 
 .footertext {
   display: flex;
   color: white;
-  justify-content: space-around;
-  padding: 30px;
-  font-size: 1.25rem;
-  padding: 100px;
+  justify-content: space-evenly;
+  padding-top: 100px;
 }
-.footertext h3 {
+.footertext p {
+  font-size: 20px;
+}
+.footertext .h3-text {
+  font-size: 30px;
   color: #AEA16A;
+}
+.footertext .robotization-enginering-industry-container {
+  margin: 30px 30px 0px 0px;
+  width: 310px;
+}
+.footertext .iconsfooter {
+  width: 68px;
+  height: 68px;
 }/*# sourceMappingURL=homework9.css.map */

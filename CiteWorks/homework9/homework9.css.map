@@ -1,1 +1,1 @@
-{"version":3,"sources":["homework9.scss","homework9.css"],"names":[],"mappings":"AAAA;EACI,yBAAA;EACA,uBAAA;EACA,aAAA;ACCJ;;ADCA;EACI,aAAA;EACA,YAAA;EACA,6BAAA;EACA,aAAA;EACA,kBAAA;EAIA,cAAA;ACDJ;ADFI;EACI,cAAA;ACIR","file":"homework9.css"}
+{"version":3,"sources":["homework9.scss","homework9.css"],"names":[],"mappings":"AAAA;EACI,yBAAA;EACA,uBAAA;EACA,aAAA;EACA,iBAAA;ACCJ;;ADCA;EACI,aAAA;EACA,YAAA;EACA,6BAAA;EAQA,kBAAA;ACLJ;ADFI;EACI,eAAA;ACIR;ADFI;EACI,eAAA;EACA,cAAA;ACIR;ADDA;EACI,yBAAA;EACA,YAAA;ACGJ;ADDA;EACI,WAAA;EACA,YAAA;ACGJ","file":"homework9.css"}

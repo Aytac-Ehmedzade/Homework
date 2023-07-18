@@ -1,68 +1,62 @@
-header {
+.page5 {
+  font-family: "Roboto Flex", sans-serif;
+}
+.page5 .Technology-trends {
+  margin: 20px;
   text-align: center;
   color: #AEA16A;
   font-size: 48px;
 }
-header h2 {
-  margin: 20px;
-}
-
-.text {
+.page5 .Trends-text-container {
   margin-bottom: 50px;
 }
-
-p {
+.page5 .Trends-text {
   font-size: 20px;
   text-align: center;
   margin: 0;
 }
-
-img {
+.page5 .trend-robo-img {
   width: 360px;
   height: 460px;
 }
-
-.container {
+.page5 .trendrobots-container {
   display: flex;
   justify-content: center;
 }
-
-footer {
-  background-color: rgb(49, 47, 47);
+.page5 footer {
+  background-color: #000000;
   height: 360px;
   margin-top: 50px;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
-
-.footdiv {
+.page5 .footdiv {
   display: flex;
 }
-
-.line {
+.page5 .jeff-line {
   width: 15px;
-  height: 200px;
+  height: 230px;
   background-color: #AEA16A;
   margin-left: 100px;
-  margin-top: 80px;
+  margin-top: 70px;
 }
-
-.footext {
+.page5 .footext {
   width: 1016px;
-  background-color: rgb(49, 47, 47);
   color: white;
   margin-top: 20px;
   margin-left: 70px;
-  font-size: 1.5rem;
+  font-size: 24px;
   font-family: sans-serif;
 }
-
-.icon {
-  width: 100px;
-  height: 100px;
+.page5 .quotation-icon {
+  width: 125px;
+  height: 104px;
   color: #AEA16A;
   margin-left: 70px;
   margin-top: 60px;
 }
-
-i {
-  color: #aea16a;
+.page5 .JeffBenzos {
+  font-size: 30px;
+  color: white;
+  padding-left: 1000px;
 }/*# sourceMappingURL=homework10.css.map */
