@@ -1,16 +1,16 @@
-section{
+.page6{
     background-color: #b9dfdf;
     font-family: 'Roboto Flex', sans-serif;
 }
 
-.containerob{
+.intelligence-container{
     display: flex;
     justify-content: center;
     padding: 80px 0px ;
     
 }
 
-img {
+.robot-artificial {
     width: 684px;
     height: 792px;
     margin-bottom: 0;
@@ -21,7 +21,7 @@ img {
     background-color: #d7eded;
     position: relative;
  }
-h2{
+.artificialintelligence{
     font-size: 48px;
     padding: 43px;
     margin: 0px;
@@ -36,7 +36,7 @@ h2{
     left: 50px;
     bottom: 110px;
  }
- .button{
+ .firstlearnbutton{
 
     color: black;
     background-color:#b9dfdf ;
