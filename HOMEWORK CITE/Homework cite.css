@@ -1,13 +1,9 @@
-body {
-  display: flex;
-  flex-direction: column;
-}
-
 .page1 {
   color: white;
   background-image: url(jpegs/WhatsApp\ Image\ 2023-06-22\ at\ 14.19.57.jpeg);
   height: 810px;
   background-repeat: no-repeat;
+  background-size: cover;
   font-family: "Roboto Flex", sans-serif;
 }
 .page1 .container {
@@ -302,85 +298,72 @@ body {
 .page-end {
   font-family: "Roboto Flex", sans-serif;
 }
-
-.containerobotai {
+.page-end .containerobotai {
   display: flex;
   justify-content: center;
   padding: 80px 0px;
 }
-
-.robotfull {
+.page-end .robotfull {
   width: 550px;
   height: 668px;
   margin-bottom: 0;
 }
-
-.robotfulltext {
+.page-end .robotfulltext {
   width: 570px;
   height: 692px;
   position: relative;
 }
-
-.textcontainer-ai {
+.page-end .textcontainer-ai {
   position: absolute;
   top: 90px;
 }
-
-.aih5 {
+.page-end .aih5 {
   font-size: 20px;
   padding: 43px 43px 0px 43px;
   margin: 0px;
 }
-
-.robotaih2 {
+.page-end .robotaih2 {
   font-size: 48px;
   padding: 43px;
   margin: 0px;
 }
-
-.robot-ai-text {
+.page-end .robot-ai-text {
   margin: 0px;
   font-size: 20px;
   padding: 0px 0px 0px 44px;
   width: 518px;
 }
-
-.direction-robo-button {
+.page-end .direction-robo-button {
   position: absolute;
   left: 50px;
   bottom: 110px;
 }
-
-.robobutton {
+.page-end .robobutton {
   color: black;
   background-color: #b9dfdf;
   padding: 15px;
   text-decoration: none;
 }
-
-.linespicture {
+.page-end .linespicture {
   width: 204px;
   height: 219px;
   position: absolute;
   top: 0px;
   right: 0px;
 }
-
-.bluefooter {
+.page-end .bluefooter {
   background-color: #23354d;
   text-align: center;
   color: white;
   padding: 50px;
 }
-
-.blackfooter {
+.page-end .blackfooter {
   background-color: #333333;
   color: white;
   margin: 0;
   padding: 30px;
   text-align: center;
 }
-
-.footerlink {
+.page-end .footerlink {
   color: aquamarine;
 }/*# sourceMappingURL=Homework cite.css.map */

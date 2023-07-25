@@ -1,0 +1,12 @@
+.picture{
+    position: relative;
+    animation: mymove 7s infinite;
+  }
+  
+  @keyframes mymove {
+    0%   {top: 20px;}
+    25%  {top: 40px;}
+    75%  {top: 20px}
+    100% {top: 40px;}
+  }
+  

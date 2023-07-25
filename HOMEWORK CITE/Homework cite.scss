@@ -1,12 +1,13 @@
 body{
-    display: flex;
-    flex-direction: column;
+   // display: flex;
+ //   flex-direction: column;
 }
 .page1{
     color: white;
        background-image: url(jpegs/WhatsApp\ Image\ 2023-06-22\ at\ 14.19.57.jpeg);
        height: 810px;
        background-repeat: no-repeat;
+       background-size: cover;
        font-family: 'Roboto Flex', sans-serif;
 .container{
     display: flex;
@@ -311,8 +312,6 @@ footer{
 }
 .page-end{
     font-family: 'Roboto Flex', sans-serif;
-}
-
 .containerobotai{
     display: flex;
     justify-content: center;
@@ -387,4 +386,5 @@ footer{
 }
 .footerlink{
     color: aquamarine;
+}
 }
