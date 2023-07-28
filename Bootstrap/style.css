@@ -8,6 +8,9 @@
   display: flex;
   justify-content: space-around;
 }
+.container-header a {
+  color: white;
+}
 .container-header a:hover {
   color: #47b2e4;
 }
