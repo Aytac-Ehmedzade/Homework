@@ -1,112 +1,109 @@
-// example{// let text = 'lorem impsum'
-//     // console.log(text.length);
-//     // console.log(text.toUpperCase());
-//     // console.log(text.toLowerCase());
+//example{// let text = 'lorem impsum'
+    // console.log(text.length);
+    // console.log(text.toUpperCase());
+    // console.log(text.toLowerCase());
     
-//     // function sayHello(example){
-//     //     console.log(example);
-//     // }
-//     // sayHello('Hello')
-    
-    
-//     // let number1 = prompt('birinci reqem');
-//     // let number2 = prompt('ikinci reqem');
-    
-//     // let a = parseInt(number1);
-//     // let b = parseInt(number2);
-    
-//     //  function sum(){
-//     //     console.log(a+b);
-//     //  }
-//     // sum()
-    
-//     // let obj = new Object();
-//     // console.log(typeof obj);
-    
-//     // let person = {
-//     // name: "Max",
-//     // age: 30,
-//     // education: true,
-//     // flower:function(){
-//     //     console.log('flower');}
-//     // }
-//     // console.log(person);
-//     // person.flower()
-    
-//     // console.log('Kohne object');
-//     // console.log(person);
-    
-//     // person.status = "yoyo";
-//     // console.log('yeni object');
-//     // console.log(person);
-//     // console.log(person.status);
-    
-//     // //delete
-//     // delete person.age;
-//     // console.log(person);
-    
-//     //Const objectin içində olan propertyni dəyişə bilir.
-//     // let number = {
-//     // a: 7,}
-//     // number.a=9;
-//     // console.log(number);
-    
-//     // const number = {
-//     // a:9,}
-//     // number.a=7
-//     // console.log(number)
+    // function sayHello(example){
+    //     console.log(example);
+    // }
+    // sayHello('Hello')
     
     
-//     // let number1 = prompt("first number");
-//     // let number2 = prompt("second number");
+    // let number1 = prompt('birinci reqem');
+    // let number2 = prompt('ikinci reqem');
     
-//     // let a = parseInt(number1);
-//     // let b = parseInt(number2);
-//     // let c = 5;
+    // let a = parseInt(number1);
+    // let b = parseInt(number2);
     
-//     // function numbers(a, b, c) {
-//     //     return a * b + c;
-//     // }
+    //  function sum(){
+    //     console.log(a+b);
+    //  }
+    // sum()
     
-//     // console.log(numbers(a, b, c));
+    // let obj = new Object();
+    // console.log(typeof obj);
+    
+    // let person = {
+    // name: "Max",
+    // age: 30,
+    // education: true,
+    // flower:function(){
+    //     console.log('flower');}
+    // }
+    // console.log(person);
+    // person.flower()
+    
+    // console.log('Kohne object');
+    // console.log(person);
+    
+    // person.status = "yoyo";
+    // console.log('yeni object');
+    // console.log(person);
+    // console.log(person.status);
+    
+    // //delete
+    // delete person.age;
+    // console.log(person);
+    
+    //Const objectin içində olan propertyni dəyişə bilir.
+    // let number = {
+    // a: 7,}
+    // number.a=9;
+    // console.log(number);
+    
+    // const number = {
+    // a:9,}
+    // number.a=7
+    // console.log(number)
     
     
-//     //ARRAY
-//     // let arr = new Array();
-//     // console.log(typeof arr);
+    // let number1 = prompt("first number");
+    // let number2 = prompt("second number");
     
-//     // let arr=["first","second","third","fourth","fifth","sixth","example"];
-//     // console.log(arr);
+    // let a = parseInt(number1);
+    // let b = parseInt(number2);
+    // let c = 5;
     
-//     // for(let i=0; i<arr.length; i++){
-//     //     console.log(arr[i]);
-//     // }
+    // function numbers(a, b, c) {
+    //     return a * b + c;
+    // }
     
-//     // console.log(arr[arr.length-1]);
-//     // console.log(arr.at(-1));  //en sondakini secir
+    // console.log(numbers(a, b, c));
     
-//     // let arr=["first","second","third","fourth","fifth","sixth","example"];
-//     // console.log(arr);
     
-//     // arr.push("flower");  //en sona elave edir
-//     // console.log(arr);
+    //ARRAY
+    // let arr = new Array();
+    // console.log(typeof arr);
     
-//     // arr.pop(); //sonuncu elementi silir
-//     // console.log(arr);
+    // let arr=["first","second","third","fourth","fifth","sixth","example"];
+    // console.log(arr);
     
-//     // arr.shift(); //birinci elementi silir
-//     // console.log(arr);
+    // for(let i=0; i<arr.length; i++){
+    //     console.log(arr[i]);
+    // }
     
-//     // arr.unshift("zero"); //birinci elemente elave edir
-//     // console.log(arr);
+    // console.log(arr[arr.length-1]);
+    // console.log(arr.at(-1));  //en sondakini secir
     
-//     // for(let a of arr) {   //for-un daha tez wsul ile 1den 10-a kimi siralanmasi
-//     //     console.log(a);
-//     // }
-//     }
-
-//HOMEWORK
-
+    // let arr=["first","second","third","fourth","fifth","sixth","example"];
+    // console.log(arr);
+    
+    // arr.push("flower");  //en sona elave edir
+    // console.log(arr);
+    
+    // arr.pop(); //sonuncu elementi silir
+    // console.log(arr);
+    
+    // arr.shift(); //birinci elementi silir
+    // console.log(arr);
+    
+    // arr.unshift("zero"); //birinci elemente elave edir
+    // console.log(arr);
+    
+    // for(let a of arr) {   //for-un daha tez wsul ile 1den 10-a kimi siralanmasi
+    //     console.log(a);
+    // }}
+console.log(homework)
 //task1
 //Ədədin kvadratını qaytaran funksiyanı yazın. Ededi istifadeci daxil edir
 // let number1 = prompt("reqemi daxil edin");
@@ -172,13 +169,13 @@
 //task5
 //Iki rəqəmin cəmisini tapın. add adında bir funksiya yaradırsız. İstifadəçidən iki rəqəmini daxil etməyini xahiş edin (num1, num2).
 //Daha sonra console-da həmin rəqəmlərinin cəmini qeyd edin
-let number1 = prompt('birinci reqem');
-let number2 = prompt('ikinci reqem');
+// let number1 = prompt('birinci reqem');
+// let number2 = prompt('ikinci reqem');
 
-let a = parseInt(number1);
-let b = parseInt(number2);
+// let a = parseInt(number1);
+// let b = parseInt(number2);
     
-function collect(){
-    console.log(a+b);
-}
-collect()
+// function collect(){
+//     console.log(a+b);
+// }
+// collect()
