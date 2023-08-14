@@ -103,7 +103,7 @@
     // for(let a of arr) {   //for-un daha tez wsul ile 1den 10-a kimi siralanmasi
     //     console.log(a);
     // }}
-console.log(homework)
+console.log(homework)    //exampleden ayirmaq ucun yazdim consoleni baxanda commente alarsiniz
 //task1
 //Ədədin kvadratını qaytaran funksiyanı yazın. Ededi istifadeci daxil edir
 // let number1 = prompt("reqemi daxil edin");
