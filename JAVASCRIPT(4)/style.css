@@ -1,0 +1,46 @@
+.container{
+display: flex;
+justify-content: center;
+align-self: flex-end;
+margin-top: 500px;
+}
+.redcontainer{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    position: relative;
+    animation: mymovered 5s infinite;
+}
+@keyframes mymovered {
+    0%   {top: 0px; left: 0px; background: blue;}
+    20%  {top: 0px; left: 100px; background: yellow;}
+    30%  {top: 100px; left: 100px; background: green;}
+    55%  {top: 100px; left: 0px; background: red;}
+    60% {top: 0px; left: 0px; background: blue;}
+  }
+.bluecontainer{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {transform: rotate(180deg); width: 200px; height: 200px; background: blueviolet;}
+  }
+.greencontainer{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    position: relative;
+  animation: mymovegreen 5s infinite;
+}
+@keyframes mymovegreen {
+  0%   {top: 0px; left: 0px; background: red;  transform: skewY(20deg); transform: rotate(180deg);}
+  20%  {top: 0px; left: 100px; background: blue;  transform: scaleY(1.5)}
+  30%  {top: 100px; left: 100px; background: yellow;transform: skewY(20deg);transform: rotate(180deg);}
+  55%  {top: 100px; left: 0px; background: green; transform: scaleY(1.5)}
+  70% {top: 0px; left: 0px; background: purple;transform: skewY(20deg);transform: rotate(180deg);}
+}
